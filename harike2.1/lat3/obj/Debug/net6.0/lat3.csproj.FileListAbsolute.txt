@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.AssemblyInfo.cs
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\harike2\lat3\bin\Debug\net6.0\lat3.exe
+C:\Users\User\Desktop\harike2\lat3\bin\Debug\net6.0\lat3.deps.json
+C:\Users\User\Desktop\harike2\lat3\bin\Debug\net6.0\lat3.runtimeconfig.json
+C:\Users\User\Desktop\harike2\lat3\bin\Debug\net6.0\lat3.dll
+C:\Users\User\Desktop\harike2\lat3\bin\Debug\net6.0\lat3.pdb
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.dll
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\refint\lat3.dll
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.pdb
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\lat3.genruntimeconfig.cache
+C:\Users\User\Desktop\harike2\lat3\obj\Debug\net6.0\ref\lat3.dll
