@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\harike1\prrumah\bin\Debug\net6.0\prrumah.exe
+C:\Users\User\Desktop\harike1\prrumah\bin\Debug\net6.0\prrumah.deps.json
+C:\Users\User\Desktop\harike1\prrumah\bin\Debug\net6.0\prrumah.runtimeconfig.json
+C:\Users\User\Desktop\harike1\prrumah\bin\Debug\net6.0\prrumah.dll
+C:\Users\User\Desktop\harike1\prrumah\bin\Debug\net6.0\prrumah.pdb
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.AssemblyInfo.cs
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.dll
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\refint\prrumah.dll
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.pdb
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\prrumah.genruntimeconfig.cache
+C:\Users\User\Desktop\harike1\prrumah\obj\Debug\net6.0\ref\prrumah.dll
